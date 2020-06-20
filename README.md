@@ -3,7 +3,7 @@
 # Introduction
 I am interested in tracking and pressure releases. Pressure releases are the topological formations found within and around a track that record the speed, direction and body position of the individual who made the track at that moment in time.
 
-I was introduced to the the ideas of tracking pressure releases from a book entitled: The Science and Art of Tracking by Tom Brown, Jr. ISBN 0-425-15772-5.
+I was introduced to the the ideas of tracking pressure releases from a book entitled: The Science and Art of Tracking by Tom Brown, Jr. ISBN 0-425-15772-5. I later found additional materials provided by Jon Young helpful as well.
 I have no affilation. I enjoyed the book and would recommend it if you are interested in learning more about tracking/pressure releases.
 
 The book introduces the idea of creating a tracking pit (or area) to study and learn how to read, understand and internalize these formations.
