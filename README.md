@@ -7,7 +7,7 @@ I was introduced to the the ideas of tracking pressure releases from a book enti
 I have no affilation. I enjoyed the book and would recommend it if you are interested in learning more about tracking/pressure releases.
 
 The book introduces the idea of creating a tracking pit (or area) to study and learn how to read, understand and internalize these formations.
-This is further expanded to include three substraites to practice in: wet hard packed sand, wet semi-soft sand, and dry loose sand.
+This is further expanded to include three substraites to practice in: hard-packed sand, moist semi-soft sand, and dry loose sand.
 These three substraites form a continuium of the vast variety of substraites you may be tracking in. Ranging from tracking in the dust on a hard packed road, to tracking in loose leaf litter.
 
 I think, a tracking pit should:
