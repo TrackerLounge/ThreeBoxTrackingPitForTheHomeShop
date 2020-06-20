@@ -33,7 +33,8 @@ This page documents my current setup.
 
 # Setup
 I purchased 3 storage containers from a hardware store. Each container can hold 10 gallons.
-I purchased 60 lb. bags of paver sand to fill the three containers.
+I purchased 60 lb. bags of paver sand to fill the three containers. I think I put 2 bags in each container. 
+Note: The filled tubs are heavy. I can slide them around on smooth concrete ok but I can not really stack them for storage. 
 
 <img src='/files/CIMG2569.JPG' width=800>
 
