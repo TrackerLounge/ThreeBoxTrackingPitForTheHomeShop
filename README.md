@@ -1,5 +1,8 @@
 [Home Page](https://github.com/TrackerLounge/Home)
 
+# Three Box Tracking Pit for the Home Shop
+Set up a flexible tracking pit in your garage or home shop to learn about tracking and pressure releases.
+
 # Introduction
 I am interested in tracking and pressure releases. Pressure releases are the topological formations found within and around a track that record the speed, direction and body position of the individual who made the track at that moment in time.
 
