@@ -30,3 +30,43 @@ Make it as convienent and confortable as possible. Do what you can do.
 
 In my current living conditions I do not have access to a big convienent location.
 This page documents my current setup.
+
+# Setup
+I purchased 3 storage containers from a hardware store. Each container can hold 10 gallons.
+I purchased 60 lb. bags of paver sand to fill the three containers.
+
+<img src='/files/CIMG2569.JPG' width=800>
+
+I poured water in the first two containers. 
+
+I pounded the sand in one of the moistened containers with a brick and 2x4 to make a hard surface.
+
+<img src='/files/CIMG2568.JPG' width=800>
+
+When not in use, I place lids on the containers to help retain the desired level of moisture.
+
+I created a small wooded frame with window screen. I can pour 1 cup of sand on the screen and then spread it out evenly over the concrete flour to simulate tracking in hard packed roads. This is a little more labor intensive than using the hard-packed box but has proven useful. Originally I did this with a little scrape of window screening and a sifting action. That worked well enough but was hard to quickly create the dusting area/coverage that I wanted.
+
+<img src='/files/CIMG2570.JPG' width=800>
+
+<img src='/files/CIMG2566.JPG' width=800>
+
+# Benefits of this setup
+I can use these boxes in parallel or in series.
+- This approach allows me to do the same motion in 3 or 4 substraites and compare them side by side.
+- Alternatively, I can set from one box to the next in series (when practicing in one substrait. 
+
+I can use these boxes at different hieghts to experiment with tracks made on gradients, while going up or down staires, or up and down hills. This can illustrate how a pressure release results in a shorter or longer stride than a chart may indicate.
+
+If I am interupted, I can place the lids on the boxes and keep them from drying out and crumbling too much while attending to those other needs. This is very useful when doing tracking photogrammetry work.
+
+# Drawbacks of this setup
+Stepping into tubs of sand feels unnatural and may result in false findings in your study of the pressure release.
+To compensate for this, When using the boxes in parallel, I tend to set up concrete blocks that act as stepping stones before and after stepping into the tubs. By stepping from a concrete block into the tube, the stepping motion is made as if on level ground.
+
+My garage home shop space is not very long. I start from a dead stop. As a result, I see acceleration pressure releases rather than pressure releases that would be indicative of maintaining that pace. Similarly, by stepping from concrete blocks into the sand box and then onto another concrete block, I tend to hop rather than step. This unnatural gait, can also result in pressure releases indicative of more force (usually in the upward direction) than would normally be seen. 
+To compensate for this, at times I have placed a plywood sheet on concrete blocks to help me not worry so much about hitting my mark (last concrete block step).
+
+When using the boxes in parallel to compare the same movement in each substrate, I tend to miss being able to refer to the next to steps in actual dirt and how that motion was captured in the next two steps. To compensate for this deficiency, I tend to go back to using the boxes in series so I can step from one box to the next and see how the next two footfalls land.
+
+This setup makes it hard to have pets participate. In a dirt floor pole barn, you can walk a cat, dog, or horse across the lot and then examine the tracks. This is not really possible with this setup. I miss that.
