@@ -57,6 +57,21 @@ I can use these boxes in parallel or in series.
 - This approach allows me to do the same motion in 3 or 4 substraites and compare them side by side.
 - Alternatively, I can step from one box to the next in series (when practicing in one substrait). 
 
+<table>
+<thead>
+<tr>
+<th>Using Boxes in Parallel</th>
+<th>Using Boxes in Series</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src='/files/usingBoxesInParallel.jpg' width=400></td>
+<td><img src='/files/usingBoxesInSeries.jpg' width=400></td>
+</tr>
+</tbody>
+</table>
+
 I can use these boxes at different hieghts to experiment with tracks made on gradients, while going up or down staires, or up and down hills. This can illustrate how a pressure release results in a shorter or longer stride than a chart may indicate.
 
 If I am interupted, I can place the lids on the boxes and keep them from drying out and crumbling too much while attending to those other needs. This is very useful when doing tracking photogrammetry work.
