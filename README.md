@@ -55,7 +55,7 @@ I created a small wooded frame with window screen. I can pour 1 cup of sand on t
 # Benefits of this setup
 I can use these boxes in parallel or in series.
 - This approach allows me to do the same motion in 3 or 4 substraites and compare them side by side.
-- Alternatively, I can set from one box to the next in series (when practicing in one substrait. 
+- Alternatively, I can step from one box to the next in series (when practicing in one substrait). 
 
 I can use these boxes at different hieghts to experiment with tracks made on gradients, while going up or down staires, or up and down hills. This can illustrate how a pressure release results in a shorter or longer stride than a chart may indicate.
 
